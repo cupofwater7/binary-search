@@ -1,5 +1,7 @@
+                                                Coding Interview Questions
 # binary-search
 
+Difficulty: easy
 
   Write a function that takes in a sorted array of integers as well as a target
   integer. The function should use the Binary Search algorithm to determine if
